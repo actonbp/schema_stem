@@ -1,0 +1,212 @@
+WORD STEM COMPLETIONS RANKED BY FREQUENCY
+=====================================
+Using Google's frequency data (scores range from 1.0 = most frequent to 0.0 = not in top 10,000)
+
+_ OY A L:
+1. ROYAL (0.8184) - common
+2. LOYAL (0.0000) - not in top 10k
+
+_ ATURE:
+1. NATURE (0.8991) - common
+2. MATURE (0.8900) - common
+
+HON _ _:
+1. HONDA (0.6056) - moderately common
+2. HONOR (0.5804) - moderately common
+3. HONEY (0.3809) - less common
+4. HONED (0.0000) - not in top 10k
+5. HONGS (0.0000) - not in top 10k
+6. HONKS (0.0000) - not in top 10k
+7. HONAN (0.0000) - not in top 10k
+8. HONER (0.0000) - not in top 10k
+
+BRA _ _ _:
+1. BRANDS (0.8396) - common
+2. BRANCH (0.7794) - common
+3. BRAZIL (0.7282) - common
+4. BRAKES (0.0767) - less common
+5. BRAINY (0.0000) - not in top 10k
+6. BRAINS (0.0000) - not in top 10k
+7. BRACED (0.0000) - not in top 10k
+8. BRAVED (0.0000) - not in top 10k
+9. BRANTA (0.0000) - not in top 10k
+
+_ _ ART:
+1. START (0.9522) - very common
+2. HEART (0.9106) - very common
+3. SMART (0.7787) - common
+4. CHART (0.7695) - common
+5. APART (0.5754) - moderately common
+6. SLART (0.0000) - not in top 10k
+7. LYART (0.0000) - not in top 10k
+8. SWART (0.0000) - not in top 10k
+9. BLART (0.0000) - not in top 10k
+
+THOU _ _ _ _ _ _:
+1. THOUGHTFUL (0.2156) - less common
+2. THOUSANDTH (0.0000) - not in top 10k
+3. THOUGHTKIN (0.0000) - not in top 10k
+4. THOUGHTLET (0.0000) - not in top 10k
+5. THOUGHTWAY (0.0000) - not in top 10k
+
+CHAR _ _ _ _:
+1. CHARGERS (0.1086) - less common
+2. CHARGING (0.0870) - less common
+3. CHARMING (0.0592) - less common
+4. CHARISMA (0.0000) - not in top 10k
+5. CHARACID (0.0000) - not in top 10k
+6. CHARITES (0.0000) - not in top 10k
+7. CHARPOYS (0.0000) - not in top 10k
+8. CHARTULA (0.0000) - not in top 10k
+9. CHARTLET (0.0000) - not in top 10k
+10. CHARLOCK (0.0000) - not in top 10k
+
+L _ VLEY:
+[No valid completions found]
+
+_ _ MBLE:
+1. HUMBLE (0.3245) - less common
+2. GAMBLE (0.2134) - less common
+3. NIMBLE (0.0000) - not in top 10k
+4. FUMBLE (0.0000) - not in top 10k
+5. MUMBLE (0.0000) - not in top 10k
+6. TUMBLE (0.0000) - not in top 10k
+7. RAMBLE (0.0000) - not in top 10k
+8. BUMBLE (0.0000) - not in top 10k
+
+CRE _ _ _ _ _:
+1. CREATIVE (0.8268) - common
+2. CREATING (0.7914) - common
+3. CREATION (0.7281) - common
+4. CREATURE (0.0176) - less common
+5. CREDIBLE (0.0000) - not in top 10k
+6. CREDIBLY (0.0000) - not in top 10k
+7. CREOLIAN (0.0000) - not in top 10k
+8. CRESYLIC (0.0000) - not in top 10k
+9. CREDITED (0.0000) - not in top 10k
+
+SENS _ _ _ _ _:
+1. SENSITIVE (0.6167) - moderately common
+2. SENSATELY (0.0000) - not in top 10k
+3. SENSUALLY (0.0000) - not in top 10k
+4. SENSORIAL (0.0000) - not in top 10k
+5. SENSORIUM (0.0000) - not in top 10k
+6. SENSITIZE (0.0000) - not in top 10k
+7. SENSILLAE (0.0000) - not in top 10k
+8. SENSATING (0.0000) - not in top 10k
+9. SENSELESS (0.0000) - not in top 10k
+
+_ OC _ _ _:
+1. SOCIAL (0.9437) - very common
+2. DOCTOR (0.7958) - common
+3. POCKET (0.7920) - common
+4. SOCCER (0.7214) - common
+5. HOCKEY (0.6580) - moderately common
+6. LOCATE (0.5088) - moderately common
+7. SOCKET (0.4848) - moderately common
+8. LOCKED (0.4191) - moderately common
+9. ROCKET (0.2333) - less common
+10. LOCALE (0.2294) - less common
+
+_ A L M:
+1. PALM (0.8075) - common
+2. CALM (0.2621) - less common
+3. BALM (0.0000) - not in top 10k
+4. SALM (0.0000) - not in top 10k
+5. MALM (0.0000) - not in top 10k
+6. HALM (0.0000) - not in top 10k
+
+_ A I R:
+1. HAIR (0.8633) - common
+2. FAIR (0.8325) - common
+3. PAIR (0.7013) - common
+4. LAIR (0.0000) - not in top 10k
+5. NAIR (0.0000) - not in top 10k
+6. YAIR (0.0000) - not in top 10k
+7. CAIR (0.0000) - not in top 10k
+8. GAIR (0.0000) - not in top 10k
+9. WAIR (0.0000) - not in top 10k
+10. VAIR (0.0000) - not in top 10k
+
+W A _ _:
+1. WANT (0.9745) - very common
+2. WALL (0.8617) - common
+3. WAYS (0.8576) - common
+4. WALK (0.7927) - common
+5. WAIT (0.7922) - common
+6. WARS (0.7155) - common
+7. WAVE (0.6758) - moderately common
+8. WARM (0.6632) - moderately common
+9. WARD (0.5389) - moderately common
+10. WAKE (0.5222) - moderately common
+11. WARY (0.0000) - not in top 10k
+12. WATT (0.0000) - not in top 10k
+
+BRU _ _ _:
+1. BRUTAL (0.0734) - less common
+2. BRUNEI (0.0608) - less common
+3. BRUNCH (0.0000) - not in top 10k
+4. BRUMAL (0.0000) - not in top 10k
+5. BRUTES (0.0000) - not in top 10k
+6. BRUITS (0.0000) - not in top 10k
+7. BRUISE (0.0000) - not in top 10k
+8. BRUJAS (0.0000) - not in top 10k
+
+_ _ _ ONG:
+1. STRONG (0.8650) - common
+2. BELONG (0.3443) - less common
+3. PRONG (0.0000) - not in top 10k
+4. WRONG (0.0000) - not in top 10k
+5. AMONG (0.0000) - not in top 10k
+
+F I _ _:
+1. FIND (0.9900) - very common
+2. FILE (0.9718) - very common
+3. FILM (0.9318) - very common
+4. FIVE (0.9231) - very common
+5. FIRE (0.9034) - very common
+6. FINE (0.8878) - common
+7. FISH (0.8428) - common
+8. FIRM (0.8137) - common
+9. FILL (0.7703) - common
+10. FITS (0.4911) - moderately common
+
+_ AN _ _:
+1. RANGE (0.9390) - very common
+2. DANCE (0.8370) - common
+3. HANDS (0.8316) - common
+4. BANKS (0.7395) - common
+5. BANDS (0.6414) - moderately common
+6. PANTS (0.5799) - moderately common
+7. MANLY (0.0000) - not in top 10k
+8. FANCY (0.0000) - not in top 10k
+
+C O _ _ _:
+1. COULD (0.9792) - very common
+2. COURT (0.9387) - very common
+3. COLOR (0.9300) - very common
+4. COSTS (0.9204) - very common
+5. COVER (0.9149) - very common
+6. COMES (0.8729) - common
+7. COAST (0.8267) - common
+8. COUNT (0.7982) - common
+9. CODES (0.7661) - common
+10. COCKY (0.0000) - not in top 10k
+
+C R U _ _:
+1. CRUEL (0.0082) - less common
+2. CRUDE (0.0000) - not in top 10k
+3. CRUET (0.0000) - not in top 10k
+4. CRUST (0.0000) - not in top 10k
+5. CRUMP (0.0000) - not in top 10k
+6. CRUCE (0.0000) - not in top 10k
+7. CRUDY (0.0000) - not in top 10k
+8. CRUOR (0.0000) - not in top 10k
+9. CRUNK (0.0000) - not in top 10k
+
+Frequency Categories:
+- Very Common: score > 0.9
+- Common: score 0.7-0.9
+- Moderately Common: score 0.4-0.7
+- Less Common: score 0.0001-0.4
+- Not in top 10k: score 0.0000 

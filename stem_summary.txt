@@ -1,0 +1,208 @@
+WORD STEM COMPLETION SUMMARY
+===========================
+
+For each stem pattern, showing all possible completions with exact letter matches:
+
+_ OY A L:
+- LOYAL
+- ROYAL
+
+_ ATURE:
+- MATURE
+- NATURE
+
+HON _ _:
+- HONDA
+- HONED
+- HONEY
+- HONOR
+- HONGS
+- HONKS
+- HONAN
+- HONER
+
+BRA _ _ _:
+- BRAINY
+- BRANDS
+- BRANCH
+- BRAKES
+- BRAINS
+- BRAZIL
+- BRACED
+- BRAVED
+- BRANTA
+
+_ _ ART:
+- SMART
+- START
+- HEART
+- CHART
+- APART
+- SLART
+- LYART
+- SWART
+- BLART
+
+THOU _ _ _ _ _ _:
+- THOUGHTFUL
+- THOUGHTKIN
+- THOUSANDTH
+- THOUGHTLET
+- THOUGHTWAY
+
+CHAR _ _ _ _:
+- CHARISMA
+- CHARGERS
+- CHARGING
+- CHARMING
+- CHARACID
+- CHARITES
+- CHARPOYS
+- CHARTULA
+- CHARTLET
+- CHARLOCK
+
+L _ VLEY:
+[No valid completions found]
+
+_ _ MBLE:
+- HUMBLE
+- GAMBLE
+- NIMBLE
+- FUMBLE
+- MUMBLE
+- TUMBLE
+- RAMBLE
+- BUMBLE
+
+CRE _ _ _ _ _:
+- CREATIVE
+- CREATING
+- CREATION
+- CREATURE
+- CREDIBLE
+- CREDIBLY
+- CREOLIAN
+- CRESYLIC
+- CREDITED
+
+SENS _ _ _ _ _:
+- SENSITIVE
+- SENSATELY
+- SENSUALLY
+- SENSORIAL
+- SENSORIUM
+- SENSITIZE
+- SENSILLAE
+- SENSATING
+- SENSELESS
+
+_ OC _ _ _:
+- SOCIAL
+- DOCTOR
+- POCKET
+- SOCCER
+- HOCKEY
+- LOCATE
+- SOCKET
+- LOCKED
+- ROCKET
+- LOCALE
+
+_ A L M:
+- CALM
+- PALM
+- BALM
+- SALM
+- MALM
+- HALM
+
+_ A I R:
+- FAIR
+- HAIR
+- PAIR
+- LAIR
+- NAIR
+- YAIR
+- CAIR
+- GAIR
+- WAIR
+- VAIR
+
+W A _ _:
+- WANT
+- WALL
+- WAYS
+- WALK
+- WAIT
+- WARS
+- WAVE
+- WARM
+- WARD
+- WAKE
+- WARY
+- WATT
+
+BRU _ _ _:
+- BRUTAL
+- BRUNEI
+- BRUNCH
+- BRUMAL
+- BRUTES
+- BRUITS
+- BRUISE
+- BRUJAS
+
+_ _ _ ONG:
+- STRONG
+- BELONG
+- PRONG
+- WRONG
+- AMONG
+
+F I _ _:
+- FIND
+- FILE
+- FILM
+- FIVE
+- FIRE
+- FINE
+- FISH
+- FIRM
+- FILL
+- FITS
+
+_ AN _ _:
+- MANLY
+- RANGE
+- DANCE
+- HANDS
+- BANKS
+- BANDS
+- PANTS
+- FANCY
+
+C O _ _ _:
+- COCKY
+- COULD
+- COURT
+- COLOR
+- COSTS
+- COVER
+- COMES
+- COAST
+- COUNT
+- CODES
+
+C R U _ _:
+- CRUEL
+- CRUDE
+- CRUET
+- CRUST
+- CRUMP
+- CRUCE
+- CRUDY
+- CRUOR
+- CRUNK
+
+Note: Words are listed regardless of frequency. Some words may be rare or archaic. 

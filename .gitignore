@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.env
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+word_frequencies.json
+word_list.txt
+completions.json
+word_completions_by_frequency.csv
+word_completions_summary.txt
+word_frequencies_table.csv
+
+# Logs and databases
+*.log
+*.sqlite 

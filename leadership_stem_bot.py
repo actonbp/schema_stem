@@ -1,4 +1,4 @@
-from langchain.chat_models import ChatOpenAI
+from langchain_community.chat_models import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from langchain.chains import LLMChain
 from langchain.output_parsers import CommaSeparatedListOutputParser
@@ -68,7 +68,7 @@ def main():
         "_ _ ART",
         "THOU _ _ _ _ _ _",
         "CHAR _ _ _ _",
-        "L _ VLEY",
+        "L _ VELY",
         "_ _ MBLE",
         "CRE _ _ _ _ _",
         "SENS _ _ _ _ _",
